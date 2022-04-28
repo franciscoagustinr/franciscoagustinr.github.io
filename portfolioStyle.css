@@ -2,6 +2,31 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700;900&display=swap'); */
 
 /* GENERALS */
+
+@font-face {
+  font-family: 'Bogart Trial';
+  src: url("../fonts/bogart/Bogart-Regular-trial.ttf");
+}
+@font-face {
+  font-family: 'Bogart Trial Semibold';
+  src: url("../fonts/bogart/Bogart-Semibold-trial.ttf");
+}
+@font-face {
+  font-family: 'Candara';
+  src: url("../fonts/CANDARA/Candara.ttf");
+}
+@font-face {
+  font-family: 'Calibre Regular';
+  src: url("../fonts/calibre/CalibreRegular.otf");
+}
+@font-face {
+  font-family: 'Calibre Semibold';
+  src: url("../fonts/calibre/CalibreSemibold.otf");
+}
+
+
+
+
 html{
     scroll-behavior: smooth;
 }
