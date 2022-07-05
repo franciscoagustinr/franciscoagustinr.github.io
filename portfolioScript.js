@@ -7,6 +7,13 @@ const workDiv = document.querySelector("#work");
 // *************
 
 const works = [
+      {
+        imageURL: "/img/disneyClone.jpg",
+        url: "https://silly-naiad-a7cbfc.netlify.app/",
+        name: "Disney+ Clone",
+        description: "Based on Disney+. Consumes the data of TMDB Api.", 
+        technologies: "REACTJS + JSX + TAILWINDCSS"
+    },
      {
         imageURL: "/img/NetflixChallenge.jpg",        
         url: "https://zesty-blancmange-afa966.netlify.app/",
@@ -34,13 +41,6 @@ const works = [
         name: "RMR || Locutor Web Page",
         description: "My first project: a simple page where the announcer Ricardo M. Rodríguez show his voice to the world.", 
         technologies: "HTML + CSS + JS"
-    },
-    {
-        imageURL: "/img/disneyClone.jpg",
-        url: "https://silly-naiad-a7cbfc.netlify.app/",
-        name: "Disney+ Clone",
-        description: "Based on Disney+. Consumes the data of TMDB Api.", 
-        technologies: "REACTJS + JSX + TAILWINDCSS"
     }
 ]
 
