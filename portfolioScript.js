@@ -12,7 +12,7 @@ const works = [
         url: "https://zesty-blancmange-afa966.netlify.app/",
         name: "Netflix Search Clone" ,
         description: "A simple Netflix search clone. Uses IMDB API to search movie or serie by title and display them with the info.", 
-        technologies: "HTML + TAILWINDCSS + REACTJS"
+        technologies: "REACTJS + JSX + TAILWINDCSS"
     },
     {
         imageURL: "/img/randomPoke1.jpg",        
@@ -34,6 +34,13 @@ const works = [
         name: "RMR || Locutor Web Page",
         description: "My first project: a simple page where the announcer Ricardo M. Rodríguez show his voice to the world.", 
         technologies: "HTML + CSS + JS"
+    },
+    {
+        imageURL: "/img/disneyClone.jpg",
+        url: "https://silly-naiad-a7cbfc.netlify.app/",
+        name: "Disney+ Clone",
+        description: "Based on Disney+. Consumes the data of TMDB Api.", 
+        technologies: "REACTJS + JSX + TAILWINDCSS"
     }
 ]
 
