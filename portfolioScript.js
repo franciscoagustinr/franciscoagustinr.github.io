@@ -16,7 +16,7 @@ const works = [
     },
      {
         imageURL: "/img/NetflixChallenge.jpg",        
-        url: "https://zesty-blancmange-afa966.netlify.app/",
+        url: "https://effortless-pavlova-52c33e.netlify.app/",
         name: "Netflix Search Clone" ,
         description: "A simple Netflix search clone. Uses IMDB API to search movie or serie by title and display them with the info.", 
         technologies: "REACTJS + JSX + TAILWINDCSS"
