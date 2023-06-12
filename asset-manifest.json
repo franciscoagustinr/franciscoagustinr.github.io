@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b126e4b6.css",
+    "main.js": "/static/js/main.b95a9d11.js",
+    "static/media/FranciscoAgustinRodriguez-CV.pdf": "/static/media/FranciscoAgustinRodriguez-CV.6deac65fd1c4875d4fe3.pdf",
+    "static/media/noise.7f2f5230.png": "/static/media/noise.7f2f5230.9db0f33cafe2d23b0402.png",
+    "static/media/disneyClone.jpg": "/static/media/disneyClone.65b38f9396a45fdca291.jpg",
+    "static/media/Bogart-Extrabold-trial.ttf": "/static/media/Bogart-Extrabold-trial.6c3b82ce25e8177b411d.ttf",
+    "static/media/RMR.jpg": "/static/media/RMR.78b973435ffad2b7194a.jpg",
+    "static/media/profile.jpg": "/static/media/profile.3de6c53bcb43b97ef53a.jpg",
+    "static/media/NetflixChallenge.jpg": "/static/media/NetflixChallenge.da79234b6895bf13d2ae.jpg",
+    "static/media/github.png": "/static/media/github.a3f151acbf03855fd949.png",
+    "static/media/github-logo.svg": "/static/media/github-logo.54a3b44875d541890438208ce8bd51ca.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin-logo.svg": "/static/media/linkedin-logo.0c4de7bf1756343b44b3bfac5bcd1b59.svg",
+    "static/media/wave-2.svg": "/static/media/wave-2.8ac1493bb448fa321bc70137dc493fd1.svg",
+    "static/media/wave.svg": "/static/media/wave.c9923aa5ba7afa42cd8fc6d51d408862.svg",
+    "main.b126e4b6.css.map": "/static/css/main.b126e4b6.css.map",
+    "main.b95a9d11.js.map": "/static/js/main.b95a9d11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b126e4b6.css",
+    "static/js/main.b95a9d11.js"
+  ]
+}
