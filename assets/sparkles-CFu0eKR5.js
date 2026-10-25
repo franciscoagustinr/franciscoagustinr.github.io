@@ -1,0 +1,1 @@
+import{R as i}from"./react-CChZ512B.js";const o={x:0,y:0};let e=0,s=null;const n=t=>{o.x=t.clientX,o.y=t.clientY},r=()=>(e===0&&(window.addEventListener("mousemove",n,{passive:!0}),s=()=>window.removeEventListener("mousemove",n)),e+=1,()=>{e-=1,e===0&&s&&(s(),s=null)}),c=()=>(i.useEffect(()=>r(),[]),o),a="/assets/sparkles-BZQeS1cM.webp";export{a as S,o as m,c as u};
